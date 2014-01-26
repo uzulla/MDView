@@ -1,0 +1,8 @@
+{
+    "require": {
+        "michelf/php-markdown": "*"
+    },
+    "autoload": {
+        "psr-0": {"": "lib/"}
+    }
+}
